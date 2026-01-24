@@ -2,6 +2,14 @@ PATHFINDING ALGORITHM VISUALIZER (C++/SFML)
 
 A C++ project implementing classic graph pathfinding algorithms and visualizing their traversal order and highlighting shortest path using SFML.
 
+
+![Pathfinding Visualizer Demo](https://github.com/Nileshh-01/Pathfinding-visualizer/blob/215853e28904f46f43d038890b9fad6d0ac34100/Demo_ss.png)
+
+### Video Demo
+(Click to play)
+
+https://github.com/Nileshh-01/Pathfinding-visualizer/blob/215853e28904f46f43d038890b9fad6d0ac34100/Demo_video.mov
+
 # Features
 
 #### Algorithms:
